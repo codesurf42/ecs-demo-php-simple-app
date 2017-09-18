@@ -25,6 +25,9 @@
                         fclose($myfile);
                 ?>
 
+                <p><?php
+                  phpinfo();
+                ?></p>
             </div>
         </div>
 
